@@ -33,7 +33,8 @@ Predict future **Units Sold** using:
 
 ---
 
-📉 Methods
+## 📉 Methods
+
 Data filtering (select date and units sold)
 
 Prophet modeling with daily/weekly/yearly seasonality
