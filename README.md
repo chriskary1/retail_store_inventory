@@ -6,6 +6,8 @@ This project focuses on forecasting daily sales using Facebook's Prophet library
 
 ## 📊 Dataset
 
+This dataset provides synthetic yet realistic data for analyzing and forecasting retail store inventory demand. It contains over 73000 rows of daily data across multiple stores and products, including attributes like sales, inventory levels, pricing, weather, promotions, and holidays.
+
 The dataset contains transactional and contextual information, including:
 - **Date**: Sales date
 - **Store ID**: Store identification
